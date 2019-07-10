@@ -1,0 +1,81 @@
+body {
+  background:#ffffff;
+}
+
+li {
+  list-style:none;
+}
+
+#logo {
+  height: 100px !important;
+}
+
+#tagline {
+  font-weight:bold !important;
+  font-size:24px !important;
+  text-shadow:#000000 1px 1px;
+  color:#ffffff !important;
+}
+
+#tag2 {
+  font-weight:bold !important;
+  font-size:16px !important;
+  text-shadow:#000000 1px 1px;
+  color:#ffffff !important;
+}
+
+#bizname {
+  font-weight:bold !important;
+  text-shadow:#000000 1px 1px;
+  color:#ffffff !important;
+  font-size:36px !important;
+}
+
+#jumbo {
+  background: url("banner.jpg") center !important;
+  width:100%;
+  height:400px;
+}
+
+.contentbox, .contentbox2 {
+  padding:10px;
+  border:#000000 1px solid;
+  border-radius:5px;
+  margin:10px auto;
+}
+
+.contentbox h2, .contentbox p {
+  color:#333333 !important;
+}
+
+.contentbox2 {
+  background:#dddddd;
+}
+
+.form-group {
+  width:1110px !important;
+  padding:10px;
+}
+
+.form-control {
+  width:90% !important;
+  margin:auto !important;
+  border:#000000 1px solid;
+}
+
+#infobtn {
+  margin-left:55px;
+  margin-top:10px;
+}
+
+footer {
+  background:#333333;
+  height:100px;
+  text-align:right;
+  padding-top:15px;
+  margin-top:10px;
+}
+
+#foottext {
+  color:#aaaaaa;
+}
